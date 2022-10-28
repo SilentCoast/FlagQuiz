@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Countries">
+        <item>Румыния</item>
+        <item>Австралия</item>
+        <item>Швеция</item>
+        <item>Аргентина</item>
+        <item>Бразилия</item>
+        <item>Куба</item>
+        <item>Чехия</item>
+        <item>Норвегия</item>
+        <item>Швейцария</item>
+        <item>Украина</item>
+    </string-array>
+    <string-array name="CountriesList">
+        <!--        <item>Europe</item>-->
+        <!--        <item>Africa</item>-->
+        <item>Весь мир</item>
+        <!--        <item>Asia</item>-->
+    </string-array>
+</resources>

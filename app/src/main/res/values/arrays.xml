@@ -1,0 +1,35 @@
+<resources>
+    <string-array name="Countries">
+        <item>Romania</item>
+        <item>Australia</item>
+        <item>Sweden</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Cuba</item>
+        <item>Czech Republic</item>
+        <item>Norway</item>
+        <item>Switzerland</item>
+        <item>Ukraine</item>
+    </string-array>
+
+    <string-array name="number_of_answer_options">
+<!--        <item>2</item>-->
+        <item>4</item>
+<!--        <item>6</item>-->
+<!--        <item>8</item>-->
+    </string-array>
+
+    <string-array name="CountriesList">
+<!--        <item>Europe</item>-->
+<!--        <item>Africa</item>-->
+        <item>Whole world</item>
+<!--        <item>Asia</item>-->
+    </string-array>
+    <string-array name="delay_options">
+        <item>0.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

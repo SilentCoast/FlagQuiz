@@ -1,0 +1,39 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/difficulty">
+
+
+        <ListPreference
+            app:key="numberOfAnswers"
+            app:defaultValue="4"
+            app:title="@string/number_of_answer_options"
+            app:useSimpleSummaryProvider="true"
+            app:entryValues="@array/number_of_answer_options"
+            app:entries="@array/number_of_answer_options"
+            />
+
+    </PreferenceCategory>
+    <PreferenceCategory app:title="@string/region">
+
+        <ListPreference
+            app:title="@string/content_of_questions"
+            app:key="contentOfQuiz"
+            app:defaultValue="@string/whole_world"
+            app:entryValues="@array/CountriesList"
+            app:entries="@array/CountriesList"
+            app:useSimpleSummaryProvider="true"
+            />
+
+    </PreferenceCategory>
+    <PreferenceCategory app:title="@string/other">
+        <ListPreference
+            app:title="@string/delay_after_answer"
+            app:key="delay"
+            app:defaultValue="1.5"
+            app:entries="@array/delay_options"
+            app:entryValues="@array/delay_options"
+            app:useSimpleSummaryProvider="true"
+
+            />
+    </PreferenceCategory>
+</PreferenceScreen>

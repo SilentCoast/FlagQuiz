@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="guess_the_country">Выберите страну</string>
+    <string name="question_1_of_10">Вопрос 1 из 10</string>
+    <string name="hints_are_not_available">Подсказки недоступны для этой страны</string>
+    <string name="question_n_of_10">Вопрос %1$s из 10</string>
+    <string name="difficulty">Сложность</string>
+    <string name="number_of_answer_options">Количество вариантов ответа</string>
+    <string name="region">Регион</string>
+    <string name="content_of_questions">Содержимое вопросов</string>
+    <string name="whole_world">Весь мир</string>
+    <string name="other">Другое</string>
+    <string name="delay_after_answer">Задержка после ответа (сек)</string>
+    <string name="quiz_is_over">Игра окончена</string>
+    <string name="correct_answers_n_of_10">Правильных ответов: %1$d/10</string>
+    <string name="start_new_quiz">Начать новую игру</string>
+</resources>
